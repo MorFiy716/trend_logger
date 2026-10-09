@@ -1,0 +1,21 @@
+# Сгенерированные данные
+config.json
+data/
+*.db
+*.jsonl
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# Прочее
+.DS_Store
+Thumbs.db
